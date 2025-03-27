@@ -29,9 +29,9 @@ OWNER_ID=your_telegram_user_id
 
 Penjelasan:
 
-TELEGRAM_BOT_TOKEN → Token dari BotFather
+TELEGRAM_BOT_TOKEN → Token dari @BotFather
 
-ASI1_API_KEY → API key dari ASI1
+ASI1_API_KEY → API key dari ASI1 https://asi1.ai
 
 OWNER_ID → ID Telegram pemilik bot (cek ID dengan @userinfobot)
 __________________________________________
