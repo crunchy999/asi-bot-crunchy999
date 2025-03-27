@@ -19,7 +19,7 @@ bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
 API_URL = "https://api.asi1.ai/v1/chat/completions"
 
 # ID Telegram yang diizinkan (ganti dengan User ID kamu)
-ALLOWED_USER_ID = 6181349501  # Ganti dengan User ID kamu
+ALLOWED_USER_ID = 12345678  # Ganti dengan User ID kamu
 
 # Nama waifu
 WAIFU_NAME = "Rem-chan"
