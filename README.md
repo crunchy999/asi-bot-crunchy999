@@ -57,14 +57,6 @@ OWNER_ID = 123456789  # Ganti dengan ID Telegram kamu
 
 @bot.message_handler(func=lambda message: message.chat.id == OWNER_ID)
 __________________________________________
-📂 Struktur Proyek
-__________________________________________
-/waifu-ai-bot
-│── bot.py              # Script utama bot
-│── requirements.txt    # Library yang dibutuhkan
-│── .env                # Token API & Bot (Opsional)
-│── README.md           # Dokumentasi proyek
-__________________________________________
 📝 TODO & Pengembangan
 __________________________________________
 ✅ Menambahkan fitur mode waifu AI
